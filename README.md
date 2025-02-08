@@ -4,3 +4,4 @@
 
 para ejecutar el sistema debes poner:
 '''npn intall react
+sistema de resgistro 2
